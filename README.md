@@ -2,32 +2,51 @@
 
 
 Level	Prof	Features			Toxicity		Signs
-1st	+2	Witcher’s Swords, 		-		      1
+1st	+2	Witcher’s Swords, 		-		      	1
+
 		Witcher’s Medallion,
 		Witcher’s Senses
-2nd	+2	Witcher Potions			  2     		1
-3rd	+2	Witcher Signs			    2		      1
-4th	+2	A/S Improvement	    	3	      	2
-5th	+3	Extra Attack, 		  	3     		2
+2nd	+2	Witcher Potions			2	     		1
+
+3rd	+2	Witcher Signs			2			1
+
+4th	+2	A/S Improvement	    		3	      		2
+
+5th	+3	Extra Attack, 		  	3     			2
 		Sign Improvement
-6th	+3	Enhanced Witcher’s    3         2 
+
+6th	+3	Enhanced Witcher’s    		3         		2 
       Sense, Witcher’s Prey
-7th	+3	Potion Improvement		4		      2
-8th	+3	A/S Improvement		    4	      	3
-9th	+4	-				              4     		3
-10th	+4	Extra Attack (2)		5     		3
-11th	+4	Sign Improvement		5		      3
-12th	+4	A/S Improvement,		5		      3
+
+7th	+3	Potion Improvement		4		      	2
+
+8th	+3	A/S Improvement		    	4	      		3
+
+9th	+4	-				4     			3
+
+10th	+4	Extra Attack (2)		5     			3
+
+11th	+4	Sign Improvement		5		      	3
+
+12th	+4	A/S Improvement,		5		      	3
 		Potion Improvement
-13th	+5	-				            6     		4
-14th	+5	-				            6     		4
-15th	+5	-				            6      		4
-16th	+5	A/S Improvement		  7      		4
-17th	+6	Potion Improvement,	7     		4
+
+13th	+5	-				6     			4
+
+14th	+5	-				6     			4
+
+15th	+5	-				6      			4
+
+16th	+5	A/S Improvement		  	7      			4
+
+17th	+6	Potion Improvement,		7     			4
 		Sign Improvement
-18th	+6	-				            8     		5
-19th	+6	A/S Improvement		  8     		5
-20th	+6	Master Witcher			9		      5
+
+18th	+6	-				8     			5
+
+19th	+6	A/S Improvement		  	8     			5
+
+20th	+6	Master Witcher			9			5
 
 Class Features
 Hit Points
