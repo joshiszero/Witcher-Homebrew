@@ -4,8 +4,10 @@
 Level	Prof	Features			Toxicity		Signs
 
 1st	+2	Witcher’s Swords, 		-		      	1
-		Witcher’s Medallion
-		Witcher’s Senses
+
+Witcher’s Medallion
+		
+Witcher’s Senses
 		
 2nd	+2	Witcher Potions			2	     		1
 
